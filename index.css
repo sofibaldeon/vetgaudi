@@ -3,16 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
-header{
-    background-color:mediumvioletred;
-}
 main{
     background-color: white;
 }
 article{
-    background-color: rgba(10, 210, 228, 0.589);
-    border: 2px solid rgba(10, 210, 228, 0.688);
+    background-color: #13b3c1b6;
+    border: 2px #13b3c1b6;
     padding: 5px;
     margin: 5px;
     color: white;
+}
+#nav-color{
+    background: #9b2295;
 }
